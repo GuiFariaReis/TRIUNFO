@@ -73,7 +73,7 @@ const banners = [
   },
   {
     type: "overlay",
-    src: "/banner_40%off.png",
+    src: "/banner_40off.png",
     alt: "Ofertas em medicamentos",
     title: "Até 40% OFF em genéricos",
     sub: "Economize no uso contínuo",
